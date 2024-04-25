@@ -1,0 +1,26 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Namaste-React",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pknandam29/React.git"
+  },
+  "keywords": [
+    "react",
+    "deepu"
+  ],
+  "author": "akshay saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pknandam29/React/issues"
+  },
+  "homepage": "https://github.com/pknandam29/React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
